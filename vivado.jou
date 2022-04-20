@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Wed Apr 20 16:09:51 2022
+# Process ID: 27440
+# Current directory: E:/FPGA/vivado_project/FM_design
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26648 E:\FPGA\vivado_project\FM_design\FM_design.xpr
+# Log file: E:/FPGA/vivado_project/FM_design/vivado.log
+# Journal file: E:/FPGA/vivado_project/FM_design\vivado.jou
+# Running On: SKY-20190703VPD, OS: Windows, CPU Frequency: 3192 MHz, CPU Physical cores: 6, Host memory: 34216 MB
+#-----------------------------------------------------------
+start_gui
+open_project E:/FPGA/vivado_project/FM_design/FM_design.xpr
+update_compile_order -fileset sources_1
